@@ -1,0 +1,6 @@
+name: RegionHUD
+version: '${project.version}'
+main: dev.kezhall.regionhud.regionhud.RegionHUD
+api-version: 1.19
+authors: [ Kez ]
+website: https://github.com/kezdev
