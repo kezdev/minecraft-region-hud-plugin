@@ -11,11 +11,5 @@ This plugin is designed to work with WorldGuard. WorldEdit is a requirement for 
 - [WorldGuard](https://dev.bukkit.org/projects/worldguard)
 - [WorldEdit](https://dev.bukkit.org/projects/worldedit)
 
-## Todo
-- Add config file to allow easy customization on:
-  - Server name
-  - Bar Style
-  - Colours
-
 ## Preview
 <img src="https://user-images.githubusercontent.com/58428891/179380820-78c212ea-8a3b-4ba4-9f6a-56ba7307ddd4.png" />
