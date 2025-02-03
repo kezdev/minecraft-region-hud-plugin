@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/58428891/179380612-48002d69-d711-4485-97e5-54e9d2517995.png" width="100" height="100" />
 
 # About
-This plugin adds a hud bar showing the server name & the name of the region that the player is standing in. This helps the player know when they're in protected regions and can help them identify who owns it.
+This plugin adds a HUD bar displaying the server name and the region the player is currently in. It helps players easily identify protected regions and their owners.
 
-Written in Java for Spigot/Paper Minecraft Servers, compiled and tested on Spigot Minecraft 1.19. You can [download the 1.19 compiled jar here](https://we.tl/t-T6ONiZ1l3z).
+Developed in Java for Spigot/Paper Minecraft servers, it has been compiled and tested on Spigot Minecraft 1.19. You can [download the 1.19 compiled jar here](https://we.tl/t-T6ONiZ1l3z).
 
 
 ## Dependencies
